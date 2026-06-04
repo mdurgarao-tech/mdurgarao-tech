@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Miriyala Durga Rao 👋
 
-<!--
-**mdurgarao-tech/mdurgarao-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Network Security Engineer
 
-Here are some ideas to get you started:
+Experienced Network Security Engineer with 5 years 11 months of experience in Network Security, Proxy Security, Firewall Administration, AWS Cloud, Python Automation, and Incident Management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Network Security
+- Zscaler ZIA/ZPA
+- Blue Coat ProxySG
+- Firewall Security
+- AWS Cloud
+- Python Automation
+- ServiceNow
+- VPN Troubleshooting
+- Cisco ASA
+- Fortinet
+- CCNA
+
+### Certifications
+- CCNA Certified
+
+### Current Focus
+- Cloud Security
+- Python Automation
+- AWS Security
+- Network Security Operations
+
+### Connect With Me
+- LinkedIn
+- GitHub
