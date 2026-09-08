@@ -1,62 +1,50 @@
 # Hi, I'm Miriyala Durga Rao 👋
 
-### Network Security Engineer
+## WAF & Application Security Engineer
 
-Network Security Engineer with 6+ years of experience securing enterprise and hybrid-cloud environments. I work across Zscaler (ZIA/ZPA/ZCC), multi-vendor firewalls, **WAF (Imperva & AWS WAF)**, and Zero Trust, with hands-on experience in application onboarding, WAF policy tuning, firewall optimization, incident management, root cause analysis, and automation using Python and Ansible.
+WAF & Application Security Engineer with 6+ years of experience protecting enterprise web applications and APIs, including 4 years hands-on with Imperva WAF. I work across Imperva, Akamai, AWS WAF, Azure WAF, Cloudflare and FortiWeb — WAF policy design, custom rule tuning, OWASP Top 10 protection, bot mitigation, rate limiting and API security — backed by multi-vendor firewall and Zscaler Zero Trust experience.
 
 📍 Hyderabad, India · 🟢 Open to opportunities · 🎓 CCNA Certified · PCNSE (In Progress)
 
 ---
 
-## 🛠️ Core Skills
-
-**Firewalls & Network Security**
-Palo Alto (Panorama) · Fortinet (FortiManager) · Check Point · Cisco ASA · Cisco Meraki · FireMon · F5 LTM · NAT · Security Policy Management
-
-**Proxy & Web Security**
-Zscaler ZIA · Zscaler ZPA · ZCC · Blue Coat ProxySG · URL Filtering · SSL Inspection
+### 🛠️ Core Skills
 
 **Web Application Firewall (WAF)**
-Imperva WAF · AWS WAF · FortiWeb · Cloudflare · Akamai · OWASP Top 10 · App Onboarding · Policy Tuning · False-Positive Reduction · IP Reputation · Geo-Blocking · Rate Limiting
+Imperva WAF · Akamai · AWS WAF · Azure WAF · Cloudflare · FortiWeb · OWASP Top 10 · Bot Mitigation · Rate Limiting · API Security · IP Reputation · Geo-Blocking · Policy Tuning · False-Positive Reduction · WAF Log Analysis
 
-**Zero Trust & VPN**
-ZTNA · Secure Remote Access · IPSec VPN · SSL VPN · Site-to-Site VPN
+**Application & Cloud Security**
+SQLi · XSS · CSRF · RCE · LFI/RFI · SSRF · L7 DDoS · Credential Stuffing · HTTP/HTTPS · TLS/SSL · Reverse Proxy · REST APIs · Cloud-Native WAF Audit · AWS (VPC, Security Groups, IAM, NACL) · Azure
 
-**DNS & Certificates**
-DNS (CNAME, TXT, A) · SSL/TLS Certificates · Application Onboarding · CDN Integration
+**Firewalls & Zero Trust**
+Zscaler ZIA · Zscaler ZPA · ZCC · Palo Alto (Panorama) · Fortinet (FortiManager) · Check Point · Cisco ASA · FireMon · F5 LTM · Blue Coat ProxySG · IPSec/SSL VPN · NAT · HA
 
-**Data Center**
-Cisco ACI (APIC, Tenants, EPGs, Contracts, Bridge Domains)
-
-**Cloud & Automation**
-AWS (VPC, Security Groups, IAM, NACL) · Cloud Security · Python · Ansible · ServiceNow · ITIL
-
-**Network Operations**
-TCP/IP · DNS · DHCP · Routing & Switching · VLANs · Wireshark · Incident Response · Root Cause Analysis
+**Automation & Operations**
+Python · Ansible · ServiceNow · ITIL · Incident Response · Change Management · Root Cause Analysis · Splunk · Wireshark
 
 ---
 
-## 📁 Featured Projects
+### 📁 Featured Projects
 
 | Repository | Focus |
 |---|---|
-| **Network-Automation-Python** | Python automation for network/security tasks — IP validation, connectivity tests, config backups, log parsing |
-| **Zscaler-Labs** | ZIA & ZPA configuration, SSL inspection, Zero Trust access, Client Connector troubleshooting |
-| **AWS-Security-Labs** | VPC design, Security Groups & NACLs, least-privilege IAM, VPC Flow Logs & CloudWatch |
-| **Network-Security-Labs** | Firewall policy & migration, VPN, proxy/web filtering, packet capture, incident response |
-| **CCNA-Labs** | Routing, switching, VLANs, OSPF, ACLs, NAT, and troubleshooting |
+| **WAF-Labs** | Imperva & AWS WAF policy examples, OWASP Top 10 rule sets, false-positive tuning notes |
+| **Network-Automation-Python** | Python automation for security tasks — rule audits, config backups, log parsing |
+| **Zscaler-Labs** | ZIA & ZPA configuration, SSL inspection, Zero Trust access, ZCC troubleshooting |
+| **AWS-Security-Labs** | VPC design, Security Groups & NACLs, least-privilege IAM, VPC Flow Logs |
+| **Network-Security-Labs** | Firewall policy & migration, VPN, proxy/web filtering, incident response |
 
 ---
 
-## 📜 Certifications
+### 📜 Certifications
 
 - **CCNA** — Cisco Certified Network Associate ✅
 - **PCNSE** — Palo Alto Networks Certified Security Engineer ⏳ (In Progress)
 
 ---
 
-## 📫 Connect
+### 📫 Connect
 
-🌐 **Portfolio:** [mdurgarao-tech.github.io](https://mdurgarao-tech.github.io)
-💼 **LinkedIn:** [in/miriyala-durgarao](https://www.linkedin.com/in/miriyala-durgarao/)
-📧 **Email:** miriyaladurgaa.rao@gmail.com
+🌐 Portfolio: [mdurgarao-tech.github.io](https://mdurgarao-tech.github.io)
+💼 LinkedIn: [in/miriyala-durgarao](https://www.linkedin.com/in/miriyala-durgarao)
+📧 Email: miriyaladurgaa.rao@gmail.com
