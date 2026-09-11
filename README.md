@@ -1,6 +1,6 @@
 # Hi, I'm Miriyala Durga Rao 👋
 
-## WAF & Application Security Engineer
+### WAF & Application Security Engineer
 
 WAF & Application Security Engineer with 6+ years of experience protecting enterprise web applications and APIs, including 4 years hands-on with Imperva WAF. I work across Imperva, Akamai, AWS WAF, Azure WAF, Cloudflare and FortiWeb — WAF policy design, custom rule tuning, OWASP Top 10 protection, bot mitigation, rate limiting and API security — backed by multi-vendor firewall and Zscaler Zero Trust experience.
 
@@ -8,7 +8,7 @@ WAF & Application Security Engineer with 6+ years of experience protecting enter
 
 ---
 
-### 🛠️ Core Skills
+## 🛠️ Core Skills
 
 **Web Application Firewall (WAF)**
 Imperva WAF · Akamai · AWS WAF · Azure WAF · Cloudflare · FortiWeb · OWASP Top 10 · Bot Mitigation · Rate Limiting · API Security · IP Reputation · Geo-Blocking · Policy Tuning · False-Positive Reduction · WAF Log Analysis
@@ -24,27 +24,27 @@ Python · Ansible · ServiceNow · ITIL · Incident Response · Change Managemen
 
 ---
 
-### 📁 Featured Projects
+## 📁 Featured Projects
 
 | Repository | Focus |
-|---|---|
-| **WAF-Labs** | Imperva & AWS WAF policy examples, OWASP Top 10 rule sets, false-positive tuning notes |
-| **Network-Automation-Python** | Python automation for security tasks — rule audits, config backups, log parsing |
-| **Zscaler-Labs** | ZIA & ZPA configuration, SSL inspection, Zero Trust access, ZCC troubleshooting |
-| **AWS-Security-Labs** | VPC design, Security Groups & NACLs, least-privilege IAM, VPC Flow Logs |
-| **Network-Security-Labs** | Firewall policy & migration, VPN, proxy/web filtering, incident response |
+|------------|-------|
+| [**waf-security-labs**](https://github.com/mdurgarao-tech/waf-security-labs) | OWASP Top 10 WAF protection writeups, false-positive tuning methodology, ModSecurity/OWASP CRS lab, and a Python WAF log analyzer (synthetic data only) |
+| [Network-Automation-Python](https://github.com/mdurgarao-tech/Network-Automation-Python) | Python automation for security tasks — rule audits, config backups, log parsing |
+| [Zscaler-Labs](https://github.com/mdurgarao-tech/Zscaler-Labs) | ZIA & ZPA configuration, SSL inspection, Zero Trust access, ZCC troubleshooting |
+| [AWS-Security-Labs](https://github.com/mdurgarao-tech/AWS-Security-Labs) | VPC design, Security Groups & NACLs, least-privilege IAM, VPC Flow Logs |
+| [Network-Security-Labs](https://github.com/mdurgarao-tech/Network-Security-Labs) | Firewall policy & migration, VPN, proxy/web filtering, incident response |
 
 ---
 
-### 📜 Certifications
+## 📜 Certifications
 
 - **CCNA** — Cisco Certified Network Associate ✅
 - **PCNSE** — Palo Alto Networks Certified Security Engineer ⏳ (In Progress)
 
 ---
 
-### 📫 Connect
+## 📫 Connect
 
-🌐 Portfolio: [mdurgarao-tech.github.io](https://mdurgarao-tech.github.io)
-💼 LinkedIn: [in/miriyala-durgarao](https://www.linkedin.com/in/miriyala-durgarao)
-📧 Email: miriyaladurgaa.rao@gmail.com
+🌐 **Portfolio:** [mdurgarao-tech.github.io](https://mdurgarao-tech.github.io)
+💼 **LinkedIn:** [in/miriyala-durgarao](https://www.linkedin.com/in/miriyala-durgarao)
+📧 **Email:** miriyala.durgarao.career@gmail.com
