@@ -1,50 +1,76 @@
-# Hi, I'm Miriyala Durga Rao 👋
+# Miriyala Durga Rao
 
-### WAF & Application Security Engineer
+**WAF & Application Security Engineer | Network Security**
 
-WAF & Application Security Engineer with 6+ years of experience protecting enterprise web applications and APIs, including 4 years hands-on with Imperva WAF. I work across Imperva, Akamai, AWS WAF, Azure WAF, Cloudflare and FortiWeb — WAF policy design, custom rule tuning, OWASP Top 10 protection, bot mitigation, rate limiting and API security — backed by multi-vendor firewall and Zscaler Zero Trust experience.
-
-📍 Hyderabad, India · 🟢 Open to opportunities · 🎓 CCNA Certified · PCNSE (In Progress)
+[Portfolio](https://edgeguard-chronicle.lovable.app) · [LinkedIn](https://www.linkedin.com/in/miriyala-durgarao/) · [Email](mailto:mdurgaraoitech@gmail.com)
 
 ---
 
-## 🛠️ Core Skills
+## About
 
-**Web Application Firewall (WAF)**
-Imperva WAF · Akamai · AWS WAF · Azure WAF · Cloudflare · FortiWeb · OWASP Top 10 · Bot Mitigation · Rate Limiting · API Security · IP Reputation · Geo-Blocking · Policy Tuning · False-Positive Reduction · WAF Log Analysis
+Application and network security engineer with 6+ years of experience designing, deploying, and operating Web Application Firewalls (WAF), CDN edge security, proxy architectures, and enterprise network controls. I focus on reducing attack surface at the edge — bot mitigation, API abuse prevention, TLS inspection, access policy enforcement, and security automation across cloud and on-prem environments.
 
-**Application & Cloud Security**
-SQLi · XSS · CSRF · RCE · LFI/RFI · SSRF · L7 DDoS · Credential Stuffing · HTTP/HTTPS · TLS/SSL · Reverse Proxy · REST APIs · Cloud-Native WAF Audit · AWS (VPC, Security Groups, IAM, NACL) · Azure
-
-**Firewalls & Zero Trust**
-Zscaler ZIA · Zscaler ZPA · ZCC · Palo Alto (Panorama) · Fortinet (FortiManager) · Check Point · Cisco ASA · FireMon · F5 LTM · Blue Coat ProxySG · IPSec/SSL VPN · NAT · HA
-
-**Automation & Operations**
-Python · Ansible · ServiceNow · ITIL · Incident Response · Change Management · Root Cause Analysis · Splunk · Wireshark
+Currently working on WAF policy tuning, CDN application delivery, Zero Trust proxy migrations, and firewall rule lifecycle management.
 
 ---
 
-## 📁 Featured Projects
+## What I Work On
 
-| Repository | Focus |
-|------------|-------|
-| [**waf-security-labs**](https://github.com/mdurgarao-tech/waf-security-labs) | OWASP Top 10 WAF protection writeups, false-positive tuning methodology, ModSecurity/OWASP CRS lab, and a Python WAF log analyzer (synthetic data only) |
-| [Network-Automation-Python](https://github.com/mdurgarao-tech/Network-Automation-Python) | Python automation for security tasks — rule audits, config backups, log parsing |
-| [Zscaler-Labs](https://github.com/mdurgarao-tech/Zscaler-Labs) | ZIA & ZPA configuration, SSL inspection, Zero Trust access, ZCC troubleshooting |
-| [AWS-Security-Labs](https://github.com/mdurgarao-tech/AWS-Security-Labs) | VPC design, Security Groups & NACLs, least-privilege IAM, VPC Flow Logs |
-| [Network-Security-Labs](https://github.com/mdurgarao-tech/Network-Security-Labs) | Firewall policy & migration, VPN, proxy/web filtering, incident response |
+- **Web Application Firewall (WAF)** — Imperva WAF onboarding, custom security rules, bot mitigation, API protection, false-positive tuning, and incident response.
+- **CDN & Edge Security** — Akamai application delivery, edge caching, traffic routing, origin protection, and TLS/SSL configuration.
+- **Network Security** — Firewall rule optimization, proxy-to-Zscaler migration, segmentation, VPN/remote access policies, and traffic inspection.
+- **Zero Trust & Cloud Security** — Zscaler Internet Access deployment, cloud access policies, secure remote access, and SaaS security posture.
+- **Security Automation** — Rule-set standardization, change workflows, health checks, and repeatable deployment patterns for security controls.
 
 ---
 
-## 📜 Certifications
+## Experience
 
-- **CCNA** — Cisco Certified Network Associate ✅
-- **PCNSE** — Palo Alto Networks Certified Security Engineer ⏳ (In Progress)
+| Period | Role | Company | Focus |
+|--------|------|---------|-------|
+| Jul 2026 – Sep 2026 | WAF & Application Security Engineer | HCLTech | Imperva WAF onboarding, policy tuning, bot mitigation, API protection, incident response |
+| Nov 2024 – Jun 2026 | Network Security Engineer | Tech Mahindra | Firewall rule optimization, proxy-to-Zscaler migration, network segmentation, VPN access |
+| Feb 2022 – Oct 2024 | Network Security Engineer | Wipro | Enterprise firewall management, proxy administration, remote access, security assessments |
+| Aug 2020 – Jan 2022 | Network Engineer | NTT DATA | LAN/WAN operations, routing/switching, monitoring, incident triage |
+
+A detailed timeline and project breakdown are available on my [portfolio](https://edgeguard-chronicle.lovable.app).
 
 ---
 
-## 📫 Connect
+## Selected Projects
 
-🌐 **Portfolio:** [mdurgarao-tech.github.io](https://mdurgarao-tech.github.io)
-💼 **LinkedIn:** [in/miriyala-durgarao](https://www.linkedin.com/in/miriyala-durgarao)
-📧 **Email:** miriyala.durgarao.career@gmail.com
+- **Imperva WAF Onboarding & Policy Tuning** — Deployed WAF policies for enterprise applications, tuned security rules to reduce false positives, and enforced bot mitigation and API protection.
+- **Akamai CDN Application Delivery** — Configured edge caching, origin shielding, traffic routing, and TLS/SSL controls to improve availability and performance.
+- **Proxy-to-Zscaler Migration** — Migrated legacy proxy infrastructure to Zscaler Internet Access, defined cloud access policies, and enabled secure remote access.
+- **Firewall Rule Optimization** — Audited and consolidated firewall rulesets, removed unused access, improved logging visibility, and reduced operational risk.
+
+---
+
+## Troubleshooting Approach
+
+1. **Issue Isolation** — Reproduce the symptom, identify affected users/applications, and scope the blast radius.
+2. **Log & Traffic Analysis** — Review WAF, firewall, proxy, and CDN logs to pinpoint the failure path.
+3. **Controlled Action** — Apply targeted rule changes, exceptions, or rerouting with rollback criteria.
+4. **Validation & Hardening** — Confirm the fix, monitor for regressions, and document lessons learned.
+
+> Note: Specific customer names, internal IPs, and infrastructure diagrams are omitted to respect confidentiality agreements.
+
+---
+
+## Certifications & Education
+
+- **CCNA Certified** — Cisco Certified Network Associate
+- **PCNSE In Progress** — Palo Alto Networks Certified Network Security Engineer
+- **B.Tech in Electronics and Communication Engineering**
+
+---
+
+## Let's Connect
+
+- Portfolio: [https://edgeguard-chronicle.lovable.app](https://edgeguard-chronicle.lovable.app)
+- LinkedIn: [https://www.linkedin.com/in/miriyala-durgarao/](https://www.linkedin.com/in/miriyala-durgarao/)
+- Email: [mdurgaraoitech@gmail.com](mailto:mdurgaraoitech@gmail.com)
+
+---
+
+*No fake metrics, contribution graphs, or visitor counters. This README reflects experience sourced directly from my resume.*
