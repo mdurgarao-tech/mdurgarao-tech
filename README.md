@@ -2,7 +2,7 @@
 
 **WAF & Application Security Engineer | Network Security**
 
-[Portfolio](https://edgeguard-chronicle.lovable.app) · [LinkedIn](https://www.linkedin.com/in/miriyala-durgarao/) · [Email](mailto:mdurgaraoitech@gmail.com)
+[Portfolio](https://edgeguard-chronicle.lovable.app) · [LinkedIn](https://www.linkedin.com/in/miriyala-durgarao/) · [Email](mailto:miriyala.durgarao.career@gmail.com)
 
 ---
 
@@ -26,12 +26,12 @@ Currently working on WAF policy tuning, CDN application delivery, Zero Trust pro
 
 ## Experience
 
-| Period | Role | Company | Focus |
-|--------|------|---------|-------|
-| Jul 2026 – Sep 2026 | WAF & Application Security Engineer | HCLTech | Imperva WAF onboarding, policy tuning, bot mitigation, API protection, incident response |
-| Nov 2024 – Jun 2026 | Network Security Engineer | Tech Mahindra | Firewall rule optimization, proxy-to-Zscaler migration, network segmentation, VPN access |
-| Feb 2022 – Oct 2024 | Network Security Engineer | Wipro | Enterprise firewall management, proxy administration, remote access, security assessments |
-| Aug 2020 – Jan 2022 | Network Engineer | NTT DATA | LAN/WAN operations, routing/switching, monitoring, incident triage |
+| Period | Role | Company | Location |
+|--------|------|---------|----------|
+| Jul 2026 – Sep 2026 | WAF & Network Security Engineer (C2H) | High Noon Consulting \| Client: Deloitte USI | Hyderabad |
+| Nov 2025 – Mar 2026 | Network Security Engineer | Unizen Technologies Pvt Ltd | Bangalore |
+| May 2025 – Oct 2025 | Cybersecurity Consultant | LTIMindtree Limited | Hyderabad |
+| Mar 2020 – Apr 2025 | Network Security Analyst | Litehires Global Private Limited | Bangalore |
 
 A detailed timeline and project breakdown are available on my [portfolio](https://edgeguard-chronicle.lovable.app).
 
@@ -61,7 +61,7 @@ A detailed timeline and project breakdown are available on my [portfolio](https:
 
 - **CCNA Certified** — Cisco Certified Network Associate
 - **PCNSE In Progress** — Palo Alto Networks Certified Network Security Engineer
-- **B.Tech in Electronics and Communication Engineering**
+- **B.Tech in Computer Science & Engineering**
 
 ---
 
@@ -69,7 +69,7 @@ A detailed timeline and project breakdown are available on my [portfolio](https:
 
 - Portfolio: [https://edgeguard-chronicle.lovable.app](https://edgeguard-chronicle.lovable.app)
 - LinkedIn: [https://www.linkedin.com/in/miriyala-durgarao/](https://www.linkedin.com/in/miriyala-durgarao/)
-- Email: [mdurgaraoitech@gmail.com](mailto:mdurgaraoitech@gmail.com)
+- Email: [miriyala.durgarao.career@gmail.com](mailto:miriyala.durgarao.career@gmail.com)
 
 ---
 
