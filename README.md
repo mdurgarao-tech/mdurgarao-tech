@@ -1,26 +1,25 @@
 # Miriyala Durga Rao
 
-**WAF & Application Security Engineer | Network Security**
+**WAF & Network Security Engineer**
 
-[Portfolio](https://edgeguard-chronicle.lovable.app) · [LinkedIn](https://www.linkedin.com/in/miriyala-durgarao/) · [Email](mailto:miriyala.durgarao.career@gmail.com)
+[Portfolio](https://edgeguard-chronicle.lovable.app) · [LinkedIn](https://www.linkedin.com/in/miriyala-durgarao/) · [Email](mailto:miriyala.durgarao.work@gmail.com)
 
 ---
 
 ## About
 
-Application and network security engineer with 6+ years of experience designing, deploying, and operating Web Application Firewalls (WAF), CDN edge security, proxy architectures, and enterprise network controls. I focus on reducing attack surface at the edge — bot mitigation, API abuse prevention, TLS inspection, access policy enforcement, and security automation across cloud and on-prem environments.
-
-Currently working on WAF policy tuning, CDN application delivery, Zero Trust proxy migrations, and firewall rule lifecycle management.
+Network security engineer with 6.4 years of experience, roughly 3–4 of them focused on Web Application Firewall and CDN security. Strongest on Akamai Kona Site Defender, Imperva, AWS WAF and Cloudflare. Earlier work was broader network security: multi-vendor firewalls and Zscaler.
 
 ---
 
 ## What I Work On
 
-- **Web Application Firewall (WAF)** — Imperva WAF onboarding, custom security rules, bot mitigation, API protection, false-positive tuning, and incident response.
-- **CDN & Edge Security** — Akamai application delivery, edge caching, traffic routing, origin protection, and TLS/SSL configuration.
-- **Network Security** — Firewall rule optimization, proxy-to-Zscaler migration, segmentation, VPN/remote access policies, and traffic inspection.
-- **Zero Trust & Cloud Security** — Zscaler Internet Access deployment, cloud access policies, secure remote access, and SaaS security posture.
-- **Security Automation** — Rule-set standardization, change workflows, health checks, and repeatable deployment patterns for security controls.
+- **Web Application Firewall (WAF):** Akamai Kona Site Defender, Imperva, AWS WAF and Cloudflare. Application onboarding, rule and policy tuning, false-positive analysis, and security event investigation.
+- **CDN and edge security:** Akamai CDN, plus production CDN migrations from Akamai to Cloudflare and AWS CloudFront (DNS/CNAME cutover, TLS, WAF policy mapping, rollback readiness).
+- **Network security:** Palo Alto, Fortinet, Check Point and Cisco ASA firewalls; rule-base review with FireMon across 50+ devices and 2,000+ rules.
+- **Zero Trust and proxy:** Zscaler ZIA and ZPA, SAML/Azure AD integration, and Blue Coat ProxySG to Zscaler migration.
+- **Cloud security:** AWS network and access controls (VPC, IAM, Security Groups, NACLs).
+- **Scripting:** small Python tools for IP validation, host checks and WAF log triage (see the repos below).
 
 ---
 
@@ -33,44 +32,32 @@ Currently working on WAF policy tuning, CDN application delivery, Zero Trust pro
 | May 2025 – Oct 2025 | Cybersecurity Consultant | LTIMindtree Limited | Hyderabad |
 | Mar 2020 – Apr 2025 | Network Security Analyst | Litehires Global Private Limited | Bangalore |
 
-A detailed timeline and project breakdown are available on my [portfolio](https://edgeguard-chronicle.lovable.app).
+A fuller timeline is on my [portfolio](https://edgeguard-chronicle.lovable.app).
 
 ---
 
-## Selected Projects
+## Repositories
 
-- **Imperva WAF Onboarding & Policy Tuning** — Deployed WAF policies for enterprise applications, tuned security rules to reduce false positives, and enforced bot mitigation and API protection.
-- **Akamai CDN Application Delivery** — Configured edge caching, origin shielding, traffic routing, and TLS/SSL controls to improve availability and performance.
-- **Proxy-to-Zscaler Migration** — Migrated legacy proxy infrastructure to Zscaler Internet Access, defined cloud access policies, and enabled secure remote access.
-- **Firewall Rule Optimization** — Audited and consolidated firewall rulesets, removed unused access, improved logging visibility, and reduced operational risk.
+- [waf-security-labs](https://github.com/mdurgarao-tech/waf-security-labs): OWASP attack write-ups and a Python WAF log analyzer (synthetic sample data)
+- [Network-Automation-Python](https://github.com/mdurgarao-tech/Network-Automation-Python): small scripts for IP validation and host reachability checks
+- [Zscaler-Labs](https://github.com/mdurgarao-tech/Zscaler-Labs), [Network-Security-Labs](https://github.com/mdurgarao-tech/Network-Security-Labs), [AWS-Security-Labs](https://github.com/mdurgarao-tech/AWS-Security-Labs): topic notes, work in progress
 
 ---
 
 ## Troubleshooting Approach
 
-1. **Issue Isolation** — Reproduce the symptom, identify affected users/applications, and scope the blast radius.
-2. **Log & Traffic Analysis** — Review WAF, firewall, proxy, and CDN logs to pinpoint the failure path.
-3. **Controlled Action** — Apply targeted rule changes, exceptions, or rerouting with rollback criteria.
-4. **Validation & Hardening** — Confirm the fix, monitor for regressions, and document lessons learned.
+1. **Issue isolation:** reproduce the symptom, identify affected users and applications, and scope the impact.
+2. **Log and traffic analysis:** review WAF, firewall, proxy and CDN logs to find the failure path.
+3. **Controlled action:** apply targeted rule changes, exceptions or rerouting with rollback criteria.
+4. **Validation:** confirm the fix, monitor for regressions, and document what happened.
 
-> Note: Specific customer names, internal IPs, and infrastructure diagrams are omitted to respect confidentiality agreements.
-
----
-
-## Certifications & Education
-
-- **CCNA Certified** — Cisco Certified Network Associate
-- **PCNSE In Progress** — Palo Alto Networks Certified Network Security Engineer
-- **B.Tech in Computer Science & Engineering**
+> Specific customer names, internal IPs and infrastructure diagrams are omitted to respect confidentiality agreements.
 
 ---
 
-## Let's Connect
+## Certifications and Education
 
-- Portfolio: [https://edgeguard-chronicle.lovable.app](https://edgeguard-chronicle.lovable.app)
-- LinkedIn: [https://www.linkedin.com/in/miriyala-durgarao/](https://www.linkedin.com/in/miriyala-durgarao/)
-- Email: [miriyala.durgarao.career@gmail.com](mailto:miriyala.durgarao.career@gmail.com)
-
----
-
-*No fake metrics, contribution graphs, or visitor counters. This README reflects experience sourced directly from my resume.*
+- **AWS Certified Security – Specialty (SCS-C02)**
+- **Cisco CCNA**
+- **Palo Alto PCNSE:** in progress
+- **B.Tech in Computer Science & Engineering**, 2019
