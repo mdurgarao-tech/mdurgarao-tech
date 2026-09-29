@@ -40,7 +40,6 @@ More detail is on my [portfolio](https://mdurgarao-tech.github.io).
 
 - [waf-security-labs](https://github.com/mdurgarao-tech/waf-security-labs): OWASP attack write-ups and a Python WAF log analyzer (synthetic sample data)
 - [Network-Automation-Python](https://github.com/mdurgarao-tech/Network-Automation-Python): small scripts for IP validation and host reachability checks
-- [Zscaler-Labs](https://github.com/mdurgarao-tech/Zscaler-Labs), [Network-Security-Labs](https://github.com/mdurgarao-tech/Network-Security-Labs), [AWS-Security-Labs](https://github.com/mdurgarao-tech/AWS-Security-Labs): topic notes, work in progress
 
 ---
 
