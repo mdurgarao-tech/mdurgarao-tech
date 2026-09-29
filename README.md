@@ -2,7 +2,7 @@
 
 **WAF & Network Security Engineer**
 
-[Portfolio](https://edgeguard-chronicle.lovable.app) · [LinkedIn](https://www.linkedin.com/in/miriyala-durgarao/) · [Email](mailto:miriyala.durgarao.work@gmail.com)
+[Portfolio](https://mdurgarao-tech.github.io) · [LinkedIn](https://www.linkedin.com/in/miriyala-durgarao/) · [Email](mailto:miriyala.durgarao.work@gmail.com)
 
 ---
 
@@ -32,7 +32,7 @@ Network security engineer with 6.4 years of experience, roughly 3–4 of them fo
 | May 2025 – Oct 2025 | Cybersecurity Consultant | LTIMindtree Limited | Hyderabad |
 | Mar 2020 – Apr 2025 | Network Security Analyst | Litehires Global Private Limited | Bangalore |
 
-A fuller timeline is on my [portfolio](https://edgeguard-chronicle.lovable.app).
+More detail is on my [portfolio](https://mdurgarao-tech.github.io).
 
 ---
 
@@ -57,7 +57,7 @@ A fuller timeline is on my [portfolio](https://edgeguard-chronicle.lovable.app).
 
 ## Certifications and Education
 
-- **AWS Certified Security – Specialty (SCS-C02)**
-- **Cisco CCNA**
+- **AWS Certified Security – Specialty (SCS-C02)**, Sep 2026, score 825/1000
+- **Cisco CCNA**, Mar 2026
 - **Palo Alto PCNSE:** in progress
 - **B.Tech in Computer Science & Engineering**, 2019
